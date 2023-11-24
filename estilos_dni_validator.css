@@ -1,0 +1,25 @@
+/* Estilos para el mensaje de éxito (success) */
+.alert-success {
+    padding: 5px;
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    border-radius: 4px;
+}
+
+.alert-success a {
+    color: #0c6624;
+}
+
+/* Estilos para el mensaje de error (danger) */
+.alert-danger {
+    padding: 5px;
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    border-radius: 4px;
+}
+
+.alert-danger a {
+    color: #491217;
+}
